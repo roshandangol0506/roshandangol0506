@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F709&width=600&lines=Hi+there!+I'm+Roshan+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F709&width=600&lines=Hi+there!+I'm+Roshan+Dangol+👋;Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -49,13 +49,13 @@
 
 ### 📊 GitHub Stats  
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshandangol&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshandangol&layout=compact&theme=tokyonight)
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshandangol0506&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshandangol0506&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=roshandangol&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=roshandangol0506&theme=onedark)
 
 ---
 
@@ -68,3 +68,6 @@
 
 > 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — Cory House
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Roshan%20Dangol%20👨‍💻&fontSize=35&fontAlignY=35)
+
