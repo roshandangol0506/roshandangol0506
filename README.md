@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 💼 Full Stack Developer (MERN Stack) | 💻 Working Full-time  
-💬 Ask me about web development, programming, or tech in general
+💬 Ask me about web development, programming, or tech in general  
 🌱 Currently exploring **Cloud Deployment (AWS, Vercel)**  
 ❤️ I love coding, learning, and growing — every single day.
 
