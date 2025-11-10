@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me  
 💼 Full Stack Developer (MERN Stack) | 💻 Working Full-time  
-🎓 Completed Internship as MERN Developer  
+💬 Ask me about web development, programming, or tech in general
 🌱 Currently exploring **Cloud Deployment (AWS, Vercel)**  
-⚡ Passionate about **clean code**, **performance**, and **user experience**
+❤️ I love coding, learning, and growing — every single day.
 
 ---
 
@@ -60,14 +60,13 @@
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roshan-dangol-829954317)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshan2121004@iimscollege.edu.np)
 
 ---
 
 > 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — Cory House
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Roshan%20Dangol%20👨‍💻&fontSize=35&fontAlignY=35)
 
