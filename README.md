@@ -54,10 +54,6 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=roshandangol0506&theme=onedark)
-
----
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roshan-dangol-829954317)
